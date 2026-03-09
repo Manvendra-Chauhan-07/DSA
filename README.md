@@ -6,6 +6,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0053-maximum-subarray) |
 | [1539-kth-missing-positive-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
@@ -20,4 +21,12 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0125-valid-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
