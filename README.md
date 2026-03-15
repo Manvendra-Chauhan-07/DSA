@@ -8,6 +8,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0033-search-in-rotated-sorted-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0053-maximum-subarray) |
 | [1539-kth-missing-positive-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1572-matrix-diagonal-sum](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,4 +30,8 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
