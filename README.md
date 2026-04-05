@@ -5,6 +5,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0053-maximum-subarray) |
 | [1539-kth-missing-positive-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -17,6 +18,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0125-valid-palindrome) |
 ## String
 |  |
