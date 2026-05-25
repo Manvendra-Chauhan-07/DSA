@@ -27,6 +27,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0125-valid-palindrome) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,4 +44,9 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
