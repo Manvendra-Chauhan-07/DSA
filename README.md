@@ -25,6 +25,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
 |  |
@@ -38,4 +39,8 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1572-matrix-diagonal-sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
