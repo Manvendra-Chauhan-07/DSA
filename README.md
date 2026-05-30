@@ -18,6 +18,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [2643-row-with-maximum-ones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0867-transpose-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [2643-row-with-maximum-ones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2643-row-with-maximum-ones) |
 ## Stack
 |  |
 | ------- |
