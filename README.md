@@ -8,6 +8,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0059-spiral-matrix-ii) |
@@ -46,6 +47,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0867-transpose-matrix) |
@@ -86,4 +88,8 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0901-online-stock-span) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
