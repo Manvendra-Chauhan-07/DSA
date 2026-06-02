@@ -15,6 +15,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0240-search-a-2d-matrix-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0503-next-greater-element-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -70,6 +71,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -83,6 +85,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0054-spiral-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
