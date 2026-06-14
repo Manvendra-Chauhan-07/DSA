@@ -20,6 +20,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0682-baseball-game](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0867-transpose-matrix) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -128,6 +129,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | ------- |
 | [0048-rotate-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0066-plus-one) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Enumeration
 |  |
 | ------- |
@@ -136,4 +138,8 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0832-flipping-an-image) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
