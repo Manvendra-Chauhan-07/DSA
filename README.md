@@ -32,6 +32,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1861-rotating-the-box](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1861-rotating-the-box) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2643-row-with-maximum-ones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2643-row-with-maximum-ones) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2951-find-the-peaks](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
@@ -89,6 +90,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1861-rotating-the-box](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1861-rotating-the-box) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2643-row-with-maximum-ones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2643-row-with-maximum-ones) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Stack
 |  |
 | ------- |
@@ -118,6 +120,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1260-shift-2d-grid](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -142,6 +145,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0066-plus-one](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0066-plus-one) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Enumeration
 |  |
 | ------- |
