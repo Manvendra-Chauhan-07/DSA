@@ -32,6 +32,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1861-rotating-the-box) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2614-prime-in-diagonal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2951-find-the-peaks](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2951-find-the-peaks) |
@@ -91,6 +92,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1672-richest-customer-wealth](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1861-rotating-the-box) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2614-prime-in-diagonal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Stack
@@ -147,6 +149,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0066-plus-one](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0066-plus-one) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2614-prime-in-diagonal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2614-prime-in-diagonal) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Enumeration
 |  |
@@ -160,4 +163,8 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
