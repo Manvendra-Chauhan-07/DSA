@@ -35,6 +35,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [2022-convert-1d-array-into-2d-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2614-prime-in-diagonal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2643-row-with-maximum-ones) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2951-find-the-peaks](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2951-find-the-peaks) |
 ## Binary Search
@@ -46,6 +47,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0240-search-a-2d-matrix-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1539-kth-missing-positive-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +58,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0832-flipping-an-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0844-backspace-string-compare) |
 | [1861-rotating-the-box](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1861-rotating-the-box) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -172,4 +175,8 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1732-find-the-highest-altitude) |
+## Sorting
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
