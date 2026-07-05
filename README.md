@@ -15,6 +15,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0066-plus-one](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0485-max-consecutive-ones) |
@@ -137,6 +138,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0771-jewels-and-stones) |
 ## Design
 |  |
@@ -178,5 +180,6 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0217-contains-duplicate) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
