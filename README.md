@@ -27,6 +27,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1672-richest-customer-wealth) |
@@ -140,6 +141,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | ------- |
 | [0217-contains-duplicate](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0771-jewels-and-stones) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Design
 |  |
 | ------- |
@@ -182,4 +184,8 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | ------- |
 | [0217-contains-duplicate](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0217-contains-duplicate) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
