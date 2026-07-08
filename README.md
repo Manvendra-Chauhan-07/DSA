@@ -60,6 +60,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0283-move-zeroes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1861-rotating-the-box) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -194,6 +195,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
