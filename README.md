@@ -56,6 +56,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0832-flipping-an-image) |
@@ -194,6 +195,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0876-middle-of-the-linked-list) |
