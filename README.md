@@ -168,6 +168,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0066-plus-one) |
 | [0371-sum-of-two-integers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0371-sum-of-two-integers) |
@@ -210,6 +211,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -227,6 +229,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0234-palindrome-linked-list) |
