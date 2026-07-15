@@ -170,6 +170,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | ------- |
 | [0048-rotate-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0066-plus-one) |
+| [0371-sum-of-two-integers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0371-sum-of-two-integers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2614-prime-in-diagonal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2614-prime-in-diagonal) |
@@ -182,6 +183,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0371-sum-of-two-integers) |
 | [0832-flipping-an-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0832-flipping-an-image) |
 ## Geometry
 |  |
