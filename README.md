@@ -80,6 +80,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0844-backspace-string-compare](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1108-defanging-an-ip-address](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2390-removing-stars-from-a-string) |
