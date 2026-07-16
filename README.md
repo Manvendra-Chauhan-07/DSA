@@ -172,6 +172,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0002-add-two-numbers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0066-plus-one) |
+| [0292-nim-game](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0371-sum-of-two-integers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -238,4 +239,12 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0148-sort-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
