@@ -35,6 +35,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1732-find-the-highest-altitude](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1861-rotating-the-box) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2614-prime-in-diagonal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2643-row-with-maximum-ones) |
@@ -178,6 +179,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0371-sum-of-two-integers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0371-sum-of-two-integers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2614-prime-in-diagonal) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -198,6 +200,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
