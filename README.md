@@ -20,6 +20,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0240-search-a-2d-matrix-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0682-baseball-game) |
@@ -121,6 +122,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0844-backspace-string-compare) |
@@ -150,6 +152,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0901-online-stock-span) |
 ## Hash Table
@@ -159,6 +162,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0142-linked-list-cycle-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
