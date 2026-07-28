@@ -8,6 +8,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0054-spiral-matrix) |
@@ -61,6 +62,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0125-valid-palindrome) |
@@ -98,6 +100,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0053-maximum-subarray) |
 ## Matrix
 |  |
@@ -122,6 +125,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0503-next-greater-element-ii) |
@@ -153,6 +157,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0901-online-stock-span) |
