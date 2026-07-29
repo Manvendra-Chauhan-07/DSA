@@ -15,6 +15,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0059-spiral-matrix-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0217-contains-duplicate) |
@@ -102,6 +103,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
 | ------- |
