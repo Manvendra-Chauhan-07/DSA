@@ -5,8 +5,6 @@ public:
         int n=nums.size();
         int start=0;
         int neighbour=start+1;
-        int count=0;
-
         while(neighbour<n)
         {
             if(nums[start]==nums[neighbour])
@@ -16,11 +14,12 @@ public:
             else
             {
                 start++;
-                count++;
                 nums[start]=nums[neighbour];
+                // start=i+1;
+                neighbour++;
             }
         }
 
-        return(count+1);
+        return start+1;
     }
 };
