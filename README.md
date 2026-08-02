@@ -94,6 +94,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3340-check-balanced-string](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3340-check-balanced-string) |
 ## Divide and Conquer
 |  |
 | ------- |
