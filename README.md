@@ -49,6 +49,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2951-find-the-peaks](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2951-find-the-peaks) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3731-find-missing-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -179,6 +180,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0771-jewels-and-stones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3731-find-missing-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
 | ------- |
@@ -233,6 +235,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0169-majority-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0217-contains-duplicate) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
