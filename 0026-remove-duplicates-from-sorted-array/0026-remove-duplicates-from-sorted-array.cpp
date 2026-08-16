@@ -3,8 +3,9 @@ public:
     int removeDuplicates(vector<int>& nums) {
         
         int n=nums.size();
-        int start=0;
-        int neighbour=start+1;
+        int count=0;
+        int start=0,neighbour=start+1;
+
         while(neighbour<n)
         {
             if(nums[start]==nums[neighbour])
@@ -15,11 +16,12 @@ public:
             {
                 start++;
                 nums[start]=nums[neighbour];
-                // start=i+1;
-                neighbour++;
+                count++;
+                // neighbour++;
             }
         }
 
-        return start+1;
+        return count+1;
+
     }
 };
