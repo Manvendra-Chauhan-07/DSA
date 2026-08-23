@@ -299,6 +299,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0145-binary-tree-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -329,6 +330,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0145-binary-tree-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -349,6 +351,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
