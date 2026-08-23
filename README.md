@@ -290,6 +290,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -308,6 +309,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0110-balanced-binary-tree) |
@@ -321,6 +323,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -351,6 +354,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
