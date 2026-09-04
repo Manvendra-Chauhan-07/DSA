@@ -8,10 +8,10 @@
  */
 class Solution {
 public:
-    void deleteNode(ListNode* node) {
-        ListNode *future=node->next;
-        node->val=future->val;
-        node->next=future->next;
-        delete future;
+    void deleteNode(ListNode* node) { 
+        ListNode *current = node; 
+        current->val=current->next->val;
+        current->next=current->next->next;
+
     }
 };
